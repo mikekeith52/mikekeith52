@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋 I'm Michael</h1>
 
-- 🔭 I’m currently working on a time series forecasting library called [scalecast](https://github.com/mikekeith52/scalecast)🌄
+- 🔭 I’m currently working on a time series forecasting library for Python called [scalecast](https://github.com/mikekeith52/scalecast)🌄
 - 🌱 I’m currently learning how to maintain documentation on Read the Docs
 - 💬 Ask me about my student mentorship in Python and Data Science through [Great Learning](https://www.mygreatlearning.com/mit-applied-data-science-course?&utm_source=Google&utm_medium=search&utm_campaign=ADSB_Int_Search_Generic_Broad_US-E&adgroup_id=122344449751&campaign_id=12557782920&Keyword=data%20science&placement=&gclid=CjwKCAiA0KmPBhBqEiwAJqKK4ys41gqnjHfW9AU4iRO9o1jTKjbyGo6LcPqf-MOiabHdAuLEabt41BoC_nIQAvD_BwE)
 - 📫 How to reach me: mikekeith52@gmail.com
