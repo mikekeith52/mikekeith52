@@ -6,8 +6,6 @@
 - 📫 How to reach me: mikekeith52@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once ran the 400 meters in 46.8 seconds
-- 👩‍💻 <img height="20px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img height="20px" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" />
   
 <div display="inline-block" align="center">
   <p>You can find me on</p>
