@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Michael
+<h1 align='center'>Hi there 👋 I'm Michael</h1>
 
 - 🔭 I’m currently working on a time series forecasting library called [scalecast](https://github.com/mikekeith52/scalecast)🌄
 - 🌱 I’m currently learning how to maintain documentation on Read the Docs
