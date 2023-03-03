@@ -11,3 +11,5 @@
   <a href="https://www.linkedin.com/in/michaelwkeith/"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@mikekeith52"><img height="30px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikekeith52)](https://github.com/anuraghazra/github-readme-stats)--
